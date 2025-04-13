@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Bushra Jaber</h1>
+<h1 align="center">Hello 👋, I'm Bushra Jaber</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
 - 🌱 I’m currently learning **Front End (Html,Css,JavaScript,React)**
 
 - 📫 How to reach me **jaberbushra828@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
